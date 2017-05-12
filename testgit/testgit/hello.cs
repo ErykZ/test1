@@ -8,6 +8,7 @@ namespace testgit
 {
     class hello
     {
+        private int liczba;
         private string test;
     }
 }
