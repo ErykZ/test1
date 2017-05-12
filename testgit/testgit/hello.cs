@@ -9,5 +9,6 @@ namespace testgit
     class hello
     {
         private string test;
+        private double l2;
     }
 }
